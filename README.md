@@ -5,7 +5,7 @@ This Tool Is able to Solve Any Math problem you Have !!
 
 Installation ::
 
-git clone https://doophack/salma-.git
+git clone https://github/doophack/salma-.git
 
 cd salma- 
 
