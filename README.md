@@ -1,7 +1,5 @@
-                                    This Was Made by Salma Ouadad!
 
-
-This Tool Is able to Solve Any Math problem you Have !!
+List Of Math Calculations In C
 
 Installation ::
 
